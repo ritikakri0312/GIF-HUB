@@ -142,7 +142,7 @@ const GiphySearch: React.FC = () => {
         <footer>
           <h5>
             <b>
-              Designed & Developed with{" "}
+              Designed & Developed {" "}
               <span className="text-red-800">&#9825;</span> by{" "}
               <a href="https://linktr.ee/i_m_k_s_s" target="_blank">
                 RITIKA
